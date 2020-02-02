@@ -1,1 +1,1 @@
-library managm=ment
+library managmment
